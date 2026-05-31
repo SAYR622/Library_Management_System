@@ -1,0 +1,17 @@
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\bin\Debug\LMS.exe.config
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\bin\Debug\LMS.exe
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\bin\Debug\LMS.pdb
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\class1.resources
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.Copy_of_add_member_info.resources
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.login.resources
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.others_control_form.resources
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.admin_control_form.resources
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.csproj.Up2Date
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.exe
+C:\Users\sayas\Documents\My Documents\1. My Docs\ESOFT\LMS - Copy\LMS\obj\Debug\LMS.pdb
